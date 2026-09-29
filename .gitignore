@@ -1,0 +1,8 @@
+build/
+build-*/
+.gradle/
+.cxx/
+*.apk
+*.aab
+*.so
+*.levipack
